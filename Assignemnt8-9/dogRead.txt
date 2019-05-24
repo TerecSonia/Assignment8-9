@@ -1,0 +1,10 @@
+Bichon,Daisy,1,http://www.dogbreedclub.com/bichon-frise/
+Pitbull,Rocky,4,https://www.allthingsdogs.com/pitbull-breeds-and-types-of-pitbulls/
+Pechinez,Bella,6,https://petmark.org/caine/Pechinez
+Labrador,Maia,3,https://www.akc.org/dog-breeds/labrador-retriever/
+Rottweiler,Bruno,4,https://www.akc.org/dog-breeds/rottweiler/
+Husky,Bella,5,https://www.pointvicentevet.com/services/dogs/breeds/siberian-husky
+Ciobanes,Azor,1,http://www.dozadebine.ro/ciobanescul-carpatin/
+Pitbull,Misha,2,https://www.petguide.com/breeds/dog/pitbull/
+Bulldog,Bufi,7,https://www.akc.org/dog-breeds/bulldog/
+Amstaff,Bella,3,https://www.akc.org/dog-breeds/american-staffordshire-terrier/
